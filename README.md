@@ -47,14 +47,12 @@ A curated list of research papers, books, software, and resources about simulati
 ## Digital Physics
 
 ### Key Resources
-- [Digital Philosophy](http://www.digitalphilosophy.org/) - Edward Fredkin's research website
 - [A New Kind of Science](https://www.wolframscience.com/nks/) - Stephen Wolfram's fundamental work
 - [The Cellular Automata](https://plato.stanford.edu/entries/cellular-automata/) - Stanford Encyclopedia entry
 
 ### Research Papers
 - [Digital Mechanics](https://arxiv.org/abs/hep-th/0510156) - Edward Fredkin's foundational paper
 - [The Universe as a Computer](https://arxiv.org/abs/0801.0337) - Jürgen Schmidhuber's perspective
-- [It from Bit](https://philpapers.org/rec/WHEIFB) - John Wheeler's seminal work
 
 ## Software & Projects
 
@@ -66,7 +64,6 @@ A curated list of research papers, books, software, and resources about simulati
 ### Research Tools
 - [Quantum Computer Simulator](https://quantum-computing.ibm.com/) - IBM's quantum experience
 - [PhysX](https://developer.nvidia.com/physx-sdk) - NVIDIA's physics engine
-- [Unity Physics](https://unity.com/physics) - Real-time physics simulation
 
 ## Historical Perspectives
 
@@ -77,24 +74,21 @@ A curated list of research papers, books, software, and resources about simulati
 ## Communities & Discussion
 
 - [r/SimulationTheory](https://www.reddit.com/r/SimulationTheory/) - Reddit community
-- [Simulation Argument Forum](https://www.simulation-argument.com/forum.html) - Nick Bostrom's forum
 - [Less Wrong](https://www.lesswrong.com/tag/simulation-hypothesis) - Rationalist community discussions
 
 ## Video Lectures & Talks
 
 - [Nick Bostrom: The Simulation Argument](https://www.youtube.com/watch?v=nnl6nY8YKHs)
-- [David Chalmers: The Virtual and the Real](https://www.youtube.com/watch?v=x6Hxn3XUxKc)
 - [Max Tegmark: Our Mathematical Universe](https://www.youtube.com/watch?v=_3UxvycpqYo)
 
 ## Critics & Counterarguments
 
 - [The Simulation Argument: Why it Fails](https://arxiv.org/abs/2010.11377) - Preston Greene
-- [Reality May Not Be a Simulation After All](https://www.pbs.org/wgbh/nova/article/are-we-living-in-a-simulation/) - PBS Nova article
 - [The Case Against Reality](https://www.quantamagazine.org/the-evolutionary-argument-against-reality-20160421/) - Donald Hoffman's perspective
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on submitting pull requests.
+Please read [CONTRIBUTING.md](https://github.com/gdonald/awesome-simulation-theory/blob/main/CONTRIBUTING.md) for details on submitting pull requests.
 
 ## License
 
