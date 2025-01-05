@@ -32,8 +32,17 @@ jobs:
 
       - name: Convert Markdown to HTML
         run: |
-          mkdir _site
-          markdown-it README.md > _site/index.html
+          echo '<html>
+            <head>
+              <meta charset="UTF-8">
+              <meta name="viewport" content="width=device-width, initial-scale=1.0">
+              <title>Awesome Simulation Theory</title>
+              <link rel="stylesheet" href="styles.css">
+            </head>
+            <body>
+              <div class="container">' > _site/index.html
+          markdown-it README.md >> _site/index.html
+          echo '</div></body></html>' >> _site/index.html
           
       - name: Setup Pages
         uses: actions/configure-pages@v4
