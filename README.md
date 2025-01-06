@@ -30,17 +30,18 @@ A curated list of research papers, books, software, and resources about simulati
 - [The Physical World as a Virtual Reality](https://arxiv.org/abs/0801.0337) - Brian Whitworth explores digital reality physics
 - [Constraints on the Universe as a Numerical Simulation](https://arxiv.org/abs/1210.1847) - Silas Beane et al. discuss observable constraints
 - [Computing Machinery and Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238) - Alan Turing's seminal paper on artificial intelligence
+- [The Physical World as a Virtual Reality](https://arxiv.org/abs/0801.0337) - Brian Whitworth (2008)
 
 ## Books
 
 ### Non-Fiction
-- [The Simulation Hypothesis](https://www.amazon.com/Simulation-Hypothesis-Scientific-Evidence-Programmed/dp/1949925315) - Rizwan Virk (2019)
+- [The Simulation Hypothesis](https://www.amazon.com/Simulation-Hypothesis-Computer-Scientist-Quantum/dp/0983056900) - Rizwan Virk (2019)
 - [Our Mathematical Universe](https://www.amazon.com/Our-Mathematical-Universe-Ultimate-Reality/dp/0307744256) - Max Tegmark (2014)
 - [Programming the Universe](https://www.amazon.com/Programming-Universe-Quantum-Computer-Scientist/dp/1400033861) - Seth Lloyd (2006)
 - [Reality+: Virtual Worlds and the Problems of Philosophy](https://www.amazon.com/Reality-Virtual-Worlds-Problems-Philosophy/dp/0393635805) - David Chalmers (2022)
 
 ### Fiction
-- [Simulacron-3](https://www.amazon.com/Simulacron-3-Daniel-F-Galouye/dp/1616461098) - Daniel F. Galouye (1964)
+- [Simulacron-3](https://www.amazon.com/Simulacron-3-Daniel-F-Galouye/dp/1647100305) - Daniel F. Galouye (1964)
 - [Snow Crash](https://www.amazon.com/Snow-Crash-Neal-Stephenson/dp/0553380958) - Neal Stephenson (1992)
 - [Permutation City](https://www.amazon.com/Permutation-City-Novel-Greg-Egan/dp/1597805394) - Greg Egan (1994)
 
@@ -49,10 +50,6 @@ A curated list of research papers, books, software, and resources about simulati
 ### Key Resources
 - [A New Kind of Science](https://www.wolframscience.com/nks/) - Stephen Wolfram's fundamental work
 - [The Cellular Automata](https://plato.stanford.edu/entries/cellular-automata/) - Stanford Encyclopedia entry
-
-### Research Papers
-- [Digital Mechanics](https://arxiv.org/abs/hep-th/0510156) - Edward Fredkin's foundational paper
-- [The Universe as a Computer](https://arxiv.org/abs/0801.0337) - Jürgen Schmidhuber's perspective
 
 ## Software & Projects
 
@@ -83,7 +80,6 @@ A curated list of research papers, books, software, and resources about simulati
 
 ## Critics & Counterarguments
 
-- [The Simulation Argument: Why it Fails](https://arxiv.org/abs/2010.11377) - Preston Greene
 - [The Case Against Reality](https://www.quantamagazine.org/the-evolutionary-argument-against-reality-20160421/) - Donald Hoffman's perspective
 
 ## Contributing
